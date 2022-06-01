@@ -1,6 +1,6 @@
 <h1 align="center">
 
-![alt text](https://github.com/[isabeleLima]/[Pleito-Front]/public/pleito.png?raw=true)
+![alt text](https://github.com/isabeleLima/Pleito-Front/blob/main/public/pleito.png?raw=true)
 
 </h1>
 
