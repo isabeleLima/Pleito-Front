@@ -16,7 +16,7 @@ yarn dev --rodar localmente
 ```
 ## Tecnologias
 
-Pleito online foi construido com o [Next.js](https://nextjs.org/docs) e com a biblioteca [Next.js](https://mui.com/pt/)
+Pleito online foi construido com o [Next.js](https://nextjs.org/docs) e com a biblioteca [React-Mui](https://mui.com/pt/)
 
 ## Projeto em Figma 
 
